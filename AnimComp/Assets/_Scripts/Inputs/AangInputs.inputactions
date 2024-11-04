@@ -1,0 +1,94 @@
+{
+    "name": "AangInputs",
+    "maps": [
+        {
+            "name": "AnimatorControls",
+            "id": "0dda57b8-4943-48dd-82c8-a979d32d6df6",
+            "actions": [
+                {
+                    "name": "Trigger1",
+                    "type": "Button",
+                    "id": "4901ce45-1616-4c20-ad1b-642a373091d9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Trigger2",
+                    "type": "Button",
+                    "id": "0dc706fd-fcc4-41b0-8686-32897f01cf2a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Trigger3",
+                    "type": "Button",
+                    "id": "4e35be28-837d-4278-83da-b7b80243e4df",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Trigger4",
+                    "type": "Button",
+                    "id": "79525e4a-dbb6-4a24-8860-dace2ac1b021",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e20ff882-b448-432a-9577-74fffa6ba83c",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Trigger1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b15c8417-6d43-41ff-acb8-278e6b568095",
+                    "path": "<Keyboard>/2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Trigger2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1b00ccd7-cd04-4350-99af-6342469c5509",
+                    "path": "<Keyboard>/3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Trigger3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "29b37571-3b7a-4eb2-a00b-53908ec0309f",
+                    "path": "<Keyboard>/4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Trigger4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

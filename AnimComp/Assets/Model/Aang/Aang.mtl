@@ -1,0 +1,31 @@
+# exported by https://3dviewer.net
+newmtl Aang_Costume_01B_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+newmtl Aang_Body_02_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+newmtl Aang_Expressions_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+newmtl Aang_Props_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+newmtl Aang_Rocks_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
