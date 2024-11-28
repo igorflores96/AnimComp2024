@@ -1,0 +1,34 @@
+{
+    "name": "UnitController",
+    "maps": [
+        {
+            "name": "Selection",
+            "id": "86d335c5-354f-4054-b6d8-01315e8ad611",
+            "actions": [
+                {
+                    "name": "SelectUnit",
+                    "type": "Button",
+                    "id": "f45cd39c-c7b9-415c-a937-bb63abe50c2f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "720dc161-6b74-42df-8883-675a60deb90a",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SelectUnit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
